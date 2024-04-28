@@ -1,9 +1,9 @@
-<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: v.sreeja </h3>
-<h3>Register Number : 212222230169</h3>
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game</h1> 
+<h3>Name:ONTEDDU SIRISHA</h3>
+<h3>Register Number: 212222230103</h3>
 <H3>Aim:</H3>
 <p>
-    Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
+    Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game
 </p>
 
 <H3>Theory and Procedure:</H3>
@@ -100,9 +100,9 @@ def minimax(game)
         @choice = moves[min_score_index]
         return scores[min_score_index]
     end
-end
 
-## PROGRAM :
+<h2>Program </h2>
+
 ```
 import time
 
@@ -296,6 +296,8 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+<br>
+<hr>
 <h2>Sample Input and Output</h2>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/6b668685-8bcc-43c5-b5c2-ddd43f3da84a)
